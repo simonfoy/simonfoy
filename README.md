@@ -1,4 +1,4 @@
-[<img src="https://github.com/BillyDotWS/BillyDotWS/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)" title="👋 Hi there! I'm (Billy Robinson)|https://billy.ws)"/>](https://billy.ws/)
+[<img src="https://github.com/BillyDotWS/BillyDotWS/blob/main/githubheader.gif" alt="👋 Hi there! I'm (Simon Foy)|https://simonfoy.me)" title="👋 Hi there! I'm (Simon Foy)|https://simonfoy.me)"/>](https://simonfoy.me/)
 
 ### Hi there 👋
 
