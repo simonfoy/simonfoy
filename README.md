@@ -7,6 +7,10 @@ Software Engineer
 * 🖥️  See my portfolio at [simonfoy.me](http://simonfoy.me)
 * ✉️  You can contact me at [contact@simonfoy.me](mailto:contact@simonfoy.me)
 
+### About me
+* 🎓 Bachelors of Science in Software Engineering from Western Govenors University. Projected graduation date: January 2024
+* 🌐 Passionate Cybersecurity Enthusiast | Discover my skills on my TryHackMe [profile](http://tryhackme.com/simonfoy)
+
 ### Skills
 
 
