@@ -1,8 +1,12 @@
 Hi 👋 My name is Simon
 ==========================
 
-Software Engineer
------------------
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+<!--- 🖥 Software Engineer -->
+- 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Graduate (First Class Honours) from 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Sunderland.
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 public 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 [my profile](https://github.com/BillyDotWS?tab=repositories)
+<!---
+---
 
 *   🖥️  See my portfolio at [simonfoy.me](http://simonfoy.me)
 *   ✉️  You can contact me at [contact@simonfoy.me](mailto:contact@simonfoy.me)### Skills 
