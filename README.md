@@ -42,3 +42,4 @@ test
 ## :thought_balloon: My GitHub Statistics
 ![simonfoy's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
 
+---
