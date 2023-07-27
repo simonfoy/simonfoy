@@ -1,15 +1,14 @@
-Hi 👋 My name is Simon
-==========================
+test
 
-Software Engineer
------------------
-
-* 🖥️  See my portfolio at [simonfoy.me](http://simonfoy.me)
-* ✉️  You can contact me at [contact@simonfoy.me](mailto:contact@simonfoy.me)
+---
 
 ### About me
 * 🎓 Bachelors of Science in Software Engineering from Western Govenors University. Projected graduation date: January 2024
 * 🌐 Passionate Cybersecurity Enthusiast | Discover my skills on my TryHackMe [profile](http://tryhackme.com/simonfoy)
+* 🖥️  See my portfolio at [simonfoy.me](http://simonfoy.me)
+* ✉️  You can contact me at [contact@simonfoy.me](mailto:contact@simonfoy.me)
+
+---
 
 ### Skills
 
@@ -32,7 +31,14 @@ Software Engineer
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
 
+---
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+---
+
+## :thought_balloon: My GitHub Statistics
+![simonfoy's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
+
