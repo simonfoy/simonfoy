@@ -1,4 +1,4 @@
-Hi 👋 My name is Simon Foy
+Hi 👋 My name is Simon
 ==========================
 
 Software Engineer
