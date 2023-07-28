@@ -2,7 +2,7 @@ test
 
 ---
 
-### About me
+### 📖 About me
 * 🎓 Bachelors of Science in Software Engineering from Western Govenors University. Projected graduation date: January 2024
 * 🌐 Passionate Cybersecurity Enthusiast | Discover my skills on my TryHackMe [profile](http://tryhackme.com/simonfoy)
 * 🖥️  See my portfolio at [simonfoy.me](http://simonfoy.me)
@@ -10,7 +10,7 @@ test
 
 ---
 
-### Skills
+### 📊 Skills
 
 
 <p align="left">
@@ -33,13 +33,18 @@ test
 
 ---
 
-### Socials
+### 📫 Socials
 
 <p align="left"> <a href="https://www.github.com/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/simonfoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ---
 
-## :thought_balloon: My GitHub Statistics
-![simonfoy's github stats](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/overview.svg)![Top Langs](https://raw.githubusercontent.com/CookieBilly/github-stats/master/generated/languages.svg)
+### 💭 My GitHub Statistics
+<a href="https://github.com/SimonFoy">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=simonfoy" />
+</a>
+<a href="https://github.com/SimonFoy">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonfoy&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
