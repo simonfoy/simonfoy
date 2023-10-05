@@ -32,5 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meganide&show_icons=true&locale=en&layout=compact" alt="meganide" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meganide&show_icons=true&locale=en" alt="meganide" /></p>
 
