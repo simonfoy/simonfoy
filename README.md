@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meganide" alt="meganide" /></a> </p>
-
 🔭 I’m currently working on [My Portfolio](simonfoy.me)\
 💻 Check out my latest project [Coming Soon](https://github.com/simonfoy)\
 🌱 I’m currently learning **Coming Soon**.\
