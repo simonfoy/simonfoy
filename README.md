@@ -3,14 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
 
-<p align="center">🔭 I’m currently working on [My Portfolio](simonfoy.me)\</p>
-<p align="center">💻 Check out my latest project [Coming Soon](https://github.com/simonfoy)\</p>
-<p align="center">🌱 I’m currently learning **Coming Soon**.\</p>
-<p align="center">👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)\</p>
-<p align="center">💬 Ask me about **My Tech Stacks**.\</p>
-<p align="center">📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\</p>
-<p align="center">📄 Take a look at my Resume! [https://simonfoy.me/assets/cv.pdf](https://simonfoy.me/assets/cv.pdf)\</p>
-<p align="center">⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**</p>
+🔭 I’m currently working on [My Portfolio](simonfoy.me)\
+💻 Check out my latest project [Coming Soon](https://github.com/simonfoy)\
+🌱 I’m currently learning **Coming Soon**.\
+👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)\
+💬 Ask me about **My Tech Stacks**.\
+📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
+📄 Take a look at my Resume! [https://simonfoy.me/assets/cv.pdf](https://simonfoy.me/assets/cv.pdf)\
+⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
