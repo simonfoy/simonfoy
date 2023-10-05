@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meganide" alt="meganide" /></a> </p>
 
 🔭 I’m currently working on [My Portfolio](simonfoy.me)\
-💻 My latest project [Coming Soon](https://github.com/simonfoy)\
+💻 Check out my latest project [Coming Soon](https://github.com/simonfoy)\
 🌱 I’m currently learning **Coming Soon**.\
 👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)\
 💬 Ask me about **My Tech Stacks**.\
