@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simon</h1>
-<h3 align="center">By day, I am a passionate IT / Cyber professional. Come nightfall, my passion for software development takes over.</h3>
+<h4 align="center">By day, I am a passionate IT / Cyber professional. Come nightfall, my passion for software development takes over.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
 
