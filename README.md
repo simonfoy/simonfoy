@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Simon</h1>
 <h3 align="center">By day, I am a passionate IT / Cyber professional. Come nightfall, my passion for software development takes over.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
 
-🔭 I’m currently working on [My Portfolio](simonfoy.me)\
+<p align="center">🔭 I’m currently working on [My Portfolio](simonfoy.me)\
 💻 Check out my latest project [Coming Soon](https://github.com/simonfoy)\
 🌱 I’m currently learning **Coming Soon**.\
 👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)\
 💬 Ask me about **My Tech Stacks**.\
 📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
 📄 Take a look at my Resume! [https://simonfoy.me/assets/cv.pdf](https://simonfoy.me/assets/cv.pdf)\
-⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**\
+⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**</p>
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
