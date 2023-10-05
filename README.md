@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meganide" alt="meganide" /></a> </p>
 
-🔭 I’m currently working on [My Portfolio](simonfoy.me)
-💻 My latest project [Coming Soon](https://github.com/simonfoy)
-🌱 I’m currently learning **Coming Soon**
-👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)
-💬 Ask me about **My Tech Stacks**
-📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.
-📄 Take a look at my Resume! [https://renas.se/assets/cv.pdf](https://renas.se/assets/cv.pdf)
-⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**
+🔭 I’m currently working on [My Portfolio](simonfoy.me)\
+💻 My latest project [Coming Soon](https://github.com/simonfoy)\
+🌱 I’m currently learning **Coming Soon**.\
+👨‍💻 All of my projects are available at [https://simonfoy.me/](https://simonfoy.me/)\
+💬 Ask me about **My Tech Stacks**.\
+📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
+📄 Take a look at my Resume! [https://renas.se/assets/cv.pdf](https://renas.se/assets/cv.pdf)\
+⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
