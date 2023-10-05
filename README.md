@@ -12,7 +12,7 @@
 📄 Take a look at my Resume! [https://simonfoy.me/assets/cv.pdf](https://simonfoy.me/assets/cv.pdf)\
 ⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <div align="center">
   <a href="https://simonfoy.me" target='_blank'><img align="center"
       src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=react&logoColor=white"
