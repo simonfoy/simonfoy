@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [My Portfolio](simonfoy.com)\
 💻 Check out my latest project [ServerSettingsGUI](simonfoy.com)\
-👨‍💻 All of my projects are available at [https://simonfoy.com/](https://simonfoy.com/)\
+👨‍💻 All of my projects are available at [https://simonfoy.com/]([https://simonfoy.com/](https://github.com/simonfoy/ServerSettingsGUI)\
 💬 Ask me about **My Tech Stacks**.\
 📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
 📄 Take a look at my Resume! [https://simonfoy.com/assets/cv.pdf](https://simonfoy.com/assets/cv.pdf)
