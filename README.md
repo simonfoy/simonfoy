@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meganide&label=Profile%20views&color=0e75b6&style=flat" alt="meganide" /> </p>
 
-🔭 I’m currently working on [My Portfolio](https://simonfoy.com)\
-💻 Check out my latest project [ServerSettingsGUI](https://github.com/simonfoy/ServerSettingsGUI)\
+💻 Check out my latest project [HungerGames](https://github.com/simonfoy/HungerGames)\
 👨‍💻 All of my projects are available at [simonfoy.com](https://simonfoy.com)\
 💬 Ask me about **My Tech Stacks**.\
 📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
