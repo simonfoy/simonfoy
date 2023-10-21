@@ -7,7 +7,7 @@
 👨‍💻 All of my projects are available at [simonfoy.com](https://simonfoy.com)\
 💬 Ask me about **My Tech Stacks**.\
 📫 You can shoot me an email at **simon.g.foy@outlook.com**! I will respond as soon as possible.\
-📄 Take a look at my Resume! [https://simonfoy.com/assets/cv.pdf](https://simonfoy.com/assets/cv.pdf)
+📄 Take a look at my Resume! [https://simonfoy.com/assets/resume.html](https://simonfoy.com/assets/resume.html)
 
 <h2 align="center">Connect with me:</h2>
 <div align="center">
