@@ -18,10 +18,6 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Minh Tu Ngo" />
   </a>
-    <a href="mailto:simon.g.foy@outlook.com" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Outlook" />
-  </a>
 </div>
 
 
